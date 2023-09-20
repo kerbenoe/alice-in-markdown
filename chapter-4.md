@@ -1,5 +1,14 @@
-CHAPTER IV.
-The Rabbit Sends in a Little Bill
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Page Title</title>
+    <link rel="stylesheet" href="style.css">
+  
+  </head>
+  
+  <h1> CHAPTER IV. </h1>
+<h3>The Rabbit Sends in a Little Bill</h3>
 
 
 It was the White Rabbit, trotting slowly back again, and looking
@@ -62,6 +71,15 @@ one elbow against the door, and the other arm curled round her head.
 Still she went on growing, and, as a last resource, she put one arm out
 of the window, and one foot up the chimney, and said to herself “Now I
 can do no more, whatever happens. What _will_ become of me?”
+<figure id="figure-one">
+
+<img src="img/illustration-11.png" alt="an image of the girl at the bottom of chimney" width="100"> 
+</figure>
+<figcaption> <p>  <em> Alice at the bottom of the Chimney. </em> </p> </fig>		
+				
+		
+
+
 
 Luckily for Alice, the little magic bottle had now had its full effect,
 and she grew no larger: still it was very uncomfortable, and, as there
@@ -108,26 +126,32 @@ but she heard a little shriek and a fall, and a crash of broken glass,
 from which she concluded that it was just possible it had fallen into a
 cucumber-frame, or something of the sort.
 
+<figure id="figure-two">
+
+<img src="img/illustration-12.png" alt="an image of a hand with a rabbit" width="100"> 
+</figure>
+<figcaption> <p>  <em> A hand reaching out for the Rabbit. </em> </p> </fig>	
+
 Next came an angry voice—the Rabbit’s—“Pat! Pat! Where are you?” And
 then a voice she had never heard before, “Sure then I’m here! Digging
-for apples, yer honour!”
+for apples, yer honor!”
 
 “Digging for apples, indeed!” said the Rabbit angrily. “Here! Come and
 help me out of _this!_” (Sounds of more broken glass.)
 
 “Now tell me, Pat, what’s that in the window?”
 
-“Sure, it’s an arm, yer honour!” (He pronounced it “arrum.”)
+“Sure, it’s an arm, yer honor!” (He pronounced it “arum.”)
 
-“An arm, you goose! Who ever saw one that size? Why, it fills the whole
+“An arm, you goose! Who ever saw one that size? Why,it fills the whole
 window!”
 
-“Sure, it does, yer honour: but it’s an arm for all that.”
+“Sure, it does, yer honor: but it’s an arm for all that.”
 
 “Well, it’s got no business there, at any rate: go and take it away!”
 
 There was a long silence after this, and Alice could only hear whispers
-now and then; such as, “Sure, I don’t like it, yer honour, at all, at
+now and then; such as, “Sure, I don’t like it, yer honor, at all, at
 all!” “Do as I tell you, you coward!” and at last she spread out her
 hand again, and made another snatch in the air. This time there were
 _two_ little shrieks, and more sounds of broken glass. “What a number
@@ -158,6 +182,12 @@ she heard a little animal (she couldn’t guess of what sort it was)
 scratching and scrambling about in the chimney close above her: then,
 saying to herself “This is Bill,” she gave one sharp kick, and waited
 to see what would happen next.
+
+<figure id="figure-three">
+
+<img src="img/illustration-13.png" alt="An image of a lizard" width="100"> 
+</figure>
+<figcaption> <p>  <em> The lizard coming out of a chimney. </em> </p> </fig>	
 
 The first thing she heard was a general chorus of “There goes Bill!”
 then the Rabbit’s voice along—“Catch him, you by the hedge!” then
@@ -233,6 +263,12 @@ little way forwards each time and a long way back, and barking hoarsely
 all the while, till at last it sat down a good way off, panting, with
 its tongue hanging out of its mouth, and its great eyes half shut.
 
+<figure id="figure-four">
+
+<img src="img/illustration-14.png" alt="an image of a dog" width="100"> 
+</figure>
+<figcaption> <p>  <em> Terrified Dog. </em> </p> </fig>	
+
 This seemed to Alice a good opportunity for making her escape; so she
 set off at once, and ran till she was quite tired and out of breath,
 and till the puppy’s bark sounded quite faint in the distance.
@@ -258,3 +294,27 @@ mushroom, and her eyes immediately met those of a large blue
 caterpillar, that was sitting on the top with its arms folded, quietly
 smoking a long hookah, and taking not the smallest notice of her or of
 anything else.
+
+
+
+<figure id="figure-five">
+
+<img src="img/illustration-15.png" alt="an image of Alice with mushroom" width="100"> 
+
+</figure>
+<figcaption> <p>  <em> Alice talking to man in mushroom. </em> </p> </fig>	
+
+<ol>
+		<li>
+			<a href="#figure-one">Alice at the Bottom of the Chimney.</a> </li>
+			<li> 
+			<a href="#figure-two">A hand reaching out for the Rabbit.</a> </li>
+			<li> 
+			<a href="#figure-three">The lizard coming out of the chimney.</a> </li> 
+           <li>  <a href="#figure-four">Terrified dog. </a> </li>	
+           <li> 
+           <a href= "#figure-five"> Alice talking to man in mushroom. </a> </li> 
+           </ol> 
+
+</body>
+</html> 

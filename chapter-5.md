@@ -1,5 +1,13 @@
-CHAPTER V.
-Advice from a Caterpillar
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Page Title</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+<h1> CHAPTER V. </h1>
+<h2>Advice from a Caterpillar</h2>
 
 
 The Caterpillar and Alice looked at each other for some time in
@@ -71,16 +79,23 @@ think you’re changed, do you?”
 “I’m afraid I am, sir,” said Alice; “I can’t remember things as I
 used—and I don’t keep the same size for ten minutes together!”
 
-“Can’t remember _what_ things?” said the Caterpillar.
+“Can’t remember <em> what </em> things?” said the Caterpillar.
 
-“Well, I’ve tried to say “How doth the little busy bee,” but it all
+“Well, I’ve tried to say <em> “How doth the little busy bee,”</em> but it all
 came different!” Alice replied in a very melancholy voice.
 
-“Repeat, “_You are old, Father William_,’” said the Caterpillar.
+“Repeat, <em>“You are old, Father William,</em>’” said the Caterpillar.
 
 Alice folded her hands, and began:—
 
-“You are old, Father William,” the young man said,
+<figure id="figure-one">
+
+<img src="img/illustration-16.png" alt="an image of Father William" width="100"> 
+</figure>
+<figcaption> <p>  <em> Father William. </em> </p> </fig>		
+
+
+<em>“You are old, Father William,” the young man said,
     “And your hair has become very white;
 And yet you incessantly stand on your head—
     Do you think, at your age, it is right?”
@@ -89,6 +104,11 @@ And yet you incessantly stand on your head—
     “I feared it might injure the brain;
 But, now that I’m perfectly sure I have none,
     Why, I do it again and again.”
+
+<figure id="figure-two">
+<img src="img/illustration-17.png" alt="an image of Father William 2 " width="100"> 
+</figure>
+<figcaption> <p>  <em> Father William with Caterpillar. </em> </p> </fig> 
 
 “You are old,” said the youth, “as I mentioned before,
     And have grown most uncommonly fat;
@@ -100,6 +120,11 @@ Yet you turned a back-somersault in at the door—
 By the use of this ointment—one shilling the box—
     Allow me to sell you a couple?”
 
+<figure id="figure-three">
+<img src="img/illustration-18.png" alt="an image of Father William at dining room table" width="100"> 
+</figure>
+<figcaption> <p>  <em> Father William at Dining Room Table. </em> </p> </fig>
+
 “You are old,” said the youth, “and your jaws are too weak
     For anything tougher than suet;
 Yet you finished the goose, with the bones and the beak—
@@ -110,6 +135,12 @@ Yet you finished the goose, with the bones and the beak—
 And the muscular strength, which it gave to my jaw,
     Has lasted the rest of my life.”
 
+<figure id="figure-four">
+<img src="img/illustration-19.png" alt="an image of Youth and Father William" width="100"> 
+</figure>
+<figcaption> <p>  <em> Father William with Youth. </em> </p> </fig>
+
+
 “You are old,” said the youth, “one would hardly suppose
     That your eye was as steady as ever;
 Yet you balanced an eel on the end of your nose—
@@ -118,7 +149,7 @@ Yet you balanced an eel on the end of your nose—
 “I have answered three questions, and that is enough,”
     Said his father; “don’t give yourself airs!
 Do you think I can listen all day to such stuff?
-    Be off, or I’ll kick you down stairs!”
+    Be off, or I’ll kick you down stairs!" </em>
 
 
 “That is not said right,” said the Caterpillar.
@@ -293,3 +324,17 @@ upon an open place, with a little house in it about four feet high.
 _this_ size: why, I should frighten them out of their wits!” So she
 began nibbling at the righthand bit again, and did not venture to go
 near the house till she had brought herself down to nine inches high.
+
+
+<ol>
+<li>
+<a href="#figure-one">Father William.</a> </li>
+<li> 
+<a href="#figure-two">Father William with Caterpillar.</a> </li>
+<li> 
+<a href="#figure-three">Father William at Dining Room Table.</a> </li> 
+<li>  <a href="#figure-four">Father William with Youth. </a> </li>	
+</ol> 
+
+</body>
+</html>
